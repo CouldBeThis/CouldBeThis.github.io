@@ -1,11 +1,11 @@
 title:              Blog
-tagline:            on GitHub Pages
-description:        Content-focused template for a blog hosted on GitHub Pages.
-url:                http://YourName.github.io
+tagline:            helping to think 
+description:        a place to put things that i'm learning
+url:                https://couldbethis.github.io/
 
 author:
-  name:             Your Name
-  url:              https://twitter.com/YourName
+  name:             Could B This
+  url:              https://github.com/CouldBeThis
   email:            YourName@gmail.com
 
 # GitHub Pages / Jekyll configuration
